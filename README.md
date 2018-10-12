@@ -1,0 +1,2 @@
+# IntroToDataScienceMiniProject
+Self-explanatory
